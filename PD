@@ -1,3 +1,4 @@
+#finding total cell area
 
 set a [get_attribute [get_cells [get_selection]] area]
 set area 0
